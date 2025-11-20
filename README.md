@@ -59,7 +59,7 @@ This repository contains 10 basic Flutter experiments covering widgets, layouts,
 
 7b. Implement form validation and error handling  
 ![WhatsApp Image 2025-11-18 at 20 19 47_1029e907](https://github.com/user-attachments/assets/ab6cccba-43c0-4e10-bd5d-9527427bf7de)
-![WhatsApp Image 2025-11-18 at 20 18 09_205866c1](https://github.com/user-attachments/assets/de8cf590-fc0e-43ad-953e-cebdec12acf1)
+<img alt="Screenshot 2025-11-20 at 11 58 57 AM" src="https://github.com/user-attachments/assets/ba7938a8-e341-4b6b-9197-cad03719d6d8" />
 
 
 ## 8. Animations
