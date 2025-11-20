@@ -55,7 +55,7 @@ This repository contains 10 basic Flutter experiments covering widgets, layouts,
 ## 7. Forms & Validation
 7a. Design a form with various input fields  
 ![WhatsApp Image 2025-11-18 at 20 15 30_7d88e303](https://github.com/user-attachments/assets/8ae45bb9-7f6e-4f0b-9519-52d96fab1726)
-![WhatsApp Image 2025-11-18 at 20 16 28_bc535719](https://github.com/user-attachments/assets/12319348-7b25-4c76-8ac4-2581ea4815a0)
+<img alt="Screenshot 2025-11-20 at 11 52 13 AM" src="https://github.com/user-attachments/assets/bc76ccfc-3e7c-4270-888e-20f1a909bade" />
 
 7b. Implement form validation and error handling  
 ![WhatsApp Image 2025-11-18 at 20 19 47_1029e907](https://github.com/user-attachments/assets/ab6cccba-43c0-4e10-bd5d-9527427bf7de)
